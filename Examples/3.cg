@@ -1,0 +1,2 @@
+print sin(1)
+print cos(1)
