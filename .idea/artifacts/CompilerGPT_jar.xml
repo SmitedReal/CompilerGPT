@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="CompilerGPT:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/CompilerGPT_jar</output-path>
+    <root id="archive" name="CompilerGPT.jar">
+      <element id="module-output" name="CompilerGPT" />
+    </root>
+  </artifact>
+</component>
